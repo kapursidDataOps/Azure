@@ -1,0 +1,22 @@
+{
+    "now": "2022-02-03T05:13:39.864Z",
+    "perfNow": 268553.3000000715,
+    "diagnosticCorrelation": "08891d9b-644e-46e2-a1f8-dc701805c061",
+    "source": "DownloadSupportFiles",
+    "environment": {
+        "productName": "adf",
+        "buildVersion": "1.0.012722.15",
+        "environmentType": 3,
+        "resourceName": "dataNewFactoryNew",
+        "resourceRegion": "eastus",
+        "resourceGroup": "Work_profileA",
+        "subscriptionId": "feaddf9f-6538-4524-a68c-dd6d7e8cf75c",
+        "sessionId": "iqX+U",
+        "operationId": "RaePa",
+        "gitType": "live"
+    },
+    "additionalInfo": {
+        "selectedResource": "Base",
+        "selectedResourceType": "pipeline"
+    }
+}
